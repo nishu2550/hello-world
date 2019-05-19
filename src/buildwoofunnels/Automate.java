@@ -61,7 +61,7 @@ public static void main(String[] args) throws InterruptedException {
     
     country.sendKeys("canada");
     
-    
+    sammdasda,s,dasl,da
     
 Select cotry=new Select(country);
   cotry.selectByVisibleText("India");
